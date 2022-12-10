@@ -4,7 +4,7 @@ Hi! I´m Bruna Heloisa 😊
 <div>
   <a href="https://github.com/bruna-rodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruna-rodrigues&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-rodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-rodrigues&layout=compact&langs_count=7&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
